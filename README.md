@@ -6,4 +6,4 @@ Gitcoin Passport
 https://passport.gitcoin.co/
 
 10 minutes:
-[LearnWeb3]([url](https://learnweb3.io/)[https://learnweb3.io/])
+[LearnWeb3](https://learnweb3.io/)
